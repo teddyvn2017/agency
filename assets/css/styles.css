@@ -812,6 +812,7 @@ button {
     color: var(--mau-trang-nhat);
 }
 
+/* mặc định trên màn hình điện thoại */
 .swiper-button-prev {
     /* left: calc(40% - 1rem); */
     left: 0;
