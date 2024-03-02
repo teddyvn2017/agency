@@ -1351,8 +1351,7 @@ button {
 
     .swiper-button-prev {
         left: calc(46%);
-        bottom: 0;    
-    
+        bottom: 0;        
     }
     
     .swiper-button-next {
